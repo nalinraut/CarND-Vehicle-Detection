@@ -14,7 +14,7 @@
 [image8]: ./assets/test4.png
 [image9]: ./assets/test5.png
 [image10]: ./assets/test6.png
-[image10]: ./assets/win.png
+[image11]: ./assets/win.png
 [video1]: ./project_video.mp4
 
 
@@ -142,7 +142,7 @@ The window overlap was chosen to be 50%.
 
 ![alt text][image11]
 
-#### 2. Example Images
+#### Example Images
 
 I used the above mentioned parameter and window sizes to obtain features. I then created a heatmap of the bounding boxes predicted by the classifier, thresholded it and then created blobs to find the final bounding boxes. 
 
