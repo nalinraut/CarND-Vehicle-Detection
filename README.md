@@ -104,7 +104,7 @@ Following are raw and normalised HOG features for the corresponding image shown.
 
 #### Implementation
 
-I tried to scale the window in four sizes, to detect car near as well as far way. The four scales are shown below 
+I tried to scale the window in six sizes, to detect car near as well as far way. The six scales are shown below 
 ```python
 def get_windows(self,image):
         """
