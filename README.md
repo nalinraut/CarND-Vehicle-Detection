@@ -15,7 +15,7 @@
 [image9]: ./assets/test5.png
 [image10]: ./assets/test6.png
 [image10]: ./assets/win.png
-
+[video1]: ./project_video.mp4
 
 
 
@@ -34,7 +34,7 @@ The goals / steps of this project are the following:
 
 
 
-[video1]: ./project_video.mp4
+
 ---
 
 
@@ -75,6 +75,9 @@ Below is the piece of code for extracting HOG features from an image. I extract 
 ```
 
 Here is an example using the `YCrCb` color space and HOG parameters of `orientations=8`, `pixels_per_cell=(8, 8)` and `cells_per_block=(2, 2)`:
+
+
+
 ![alt text][image2]
 
 
