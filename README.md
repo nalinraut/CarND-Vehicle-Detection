@@ -3,7 +3,7 @@
 ---
 [//]: # (Image References)
 [image0]: ./assets/video.gif
-[image1]: ./assets/vehicles.png
+[image1]: ./assets/vehicle.png
 [image2]: ./assets/Original_YCrCb_HOG.png
 [image3]: ./assets/hogfeatures.png
 
